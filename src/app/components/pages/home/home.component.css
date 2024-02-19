@@ -4,8 +4,8 @@
   display: flex;
   justify-content: center;
 }
-/* 
-.articles_others {
-  display: flex;
-  flex-direction: column;
-} */
+
+header {
+  margin-top: 15px;
+  border: 1px solid red;
+}
