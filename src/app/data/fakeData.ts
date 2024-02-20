@@ -1,15 +1,17 @@
 export const fakeData = [
   {
     "id": 1,
-    "photo": "aaa",
-    "title": "novo filme",
-    "description": "blab bla bla"
+    "title": "Cavalocoptero finalmente encontrado!",
+    "description": "viajantes encontram o querido animal perdido no deserto, e sem suas helices caracteristicas. 'Fui roubado' afirma cavalocoptero",
+    "photoCover": "../../../assets/amanea_horse.jpg"
   },
   {
     "id": 2,
-    "photo": "bbb",
-    "title": "filme velho",
-    "description": "blab bla bla"
+    "title": "Dispositivo de locomoção 3D recebe permição de uso sob licença nas ruas de Londres",
+    "description": "blab bla bla",
+    "photoCover": "../../../assets/jrinke_italy.jpg"
+
   }
+  
 
 ]
